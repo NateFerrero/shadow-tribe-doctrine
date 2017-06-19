@@ -48,29 +48,29 @@ This document represents a search for something lost within ourselves. POSSIBLY 
 
 Often, a time delay is needed to allow the SELF processing time to understand new information correctly and thoroughly. Throughout this document, situations will arise resulting in a delay. Judgment MAY be used in adjusting the length of a delay shorter or longer. However, some delays that SHOULD be used are presented here.
 
-DELAY 1/60: 1 minute
+**DELAY 1/60** = 1 minute
 
-DELAY 1/12: 5 minutes
+**DELAY 1/12** = 5 minutes
 
-DELAY 1/6: 10 minutes
+**DELAY 1/6** = 10 minutes
 
-DELAY 1/3: 20 minutes
+**DELAY 1/3** = 20 minutes
 
-DELAY 1/2: 30 minutes
+**DELAY 1/2** = 30 minutes
 
-DELAY 2/3: 40 minutes
+**DELAY 2/3** = 40 minutes
 
-DELAY 1: 60 minutes
+**DELAY 1** = 60 minutes
 
-DELAY 12: 12 hours
+**DELAY 12** = 12 hours
 
-DELAY 1d: 24 hours
+**DELAY 1d** = 24 hours
 
-DELAY 3d: 3 days
+**DELAY 3d** = 3 days
 
-DELAY 1w: 7 days
+**DELAY 1w** = 7 days
 
-DELAY 52w: 1 year
+**DELAY 52w** = 1 year
 
 # Chapter 1: Honoring the Senses
 
