@@ -43,3 +43,23 @@ SELF must FORK and PULL REQUEST as information, knowlegde and wisdom are discove
 ## Vision
 
 This document represents a search for something lost within ourselves. POSSIBLY we never had it, yet we still aspire to it. A dream of a world where we are not merely observers, but architects.
+
+# Chapter 1: Honoring the Senses
+
+# Chapter 2: Mining your Data
+
+# Chapter 3: Acting in Accordance
+
+# Chapter 4: Building Systems
+
+# Chapter 5: Assembling Community
+
+# Chapter 6: Producing Value
+
+# Chapter 7: Resisting Solidification
+
+# Chapter 8: Expansion
+
+# Chapter 9: Solving Systemic Problems
+
+# Chapter 10: Protecting the Vision
