@@ -18,7 +18,7 @@ A voluntary open specification for human behavior intended to result in human co
 
 **OTHER/OTHERS** refers to individuals who are not the SELF.
 
-**PREMISE** means the idea that there is one set of human behavior toward the self and others that will maximize the achievement of the GOAL.
+**PREMISE** means the idea that there is one set of human behavior toward the SELF and OTHERS that will maximize the achievement of the GOAL.
 
 **CAUSE** means the mechanism or supporting inputs that result in or lead to an outcome.
 
