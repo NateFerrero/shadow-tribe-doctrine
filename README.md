@@ -38,7 +38,7 @@ This document is written in English, and it MUST be translated into all language
 
 ## Contributing
 
-SELF must FORK and PULL REQUEST as information, knowlegde and wisdom are discovered during life.
+SELF must FORK and PULL REQUEST as information, knowledge and wisdom are discovered during life.
 
 ## Vision
 
