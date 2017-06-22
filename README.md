@@ -90,7 +90,7 @@ Community develops at the pace of counterparts combined.  Find and add the follo
  * **-1** Unconscious Biasers - These people often break the community
  * **0** Conscious / Unconscious - These people don't give a f&ck
  * **+1** Conscious Un-Biasers - These people often build the community
- * **+2** Unonscious Un-Biasers - These people constantly build the community
+ * **+2** Unconscious Un-Biasers - These people constantly build the community
 
 # Chapter 6: Producing Value
 
