@@ -82,6 +82,16 @@ Often, a time delay is needed to allow the SELF processing time to understand ne
 
 # Chapter 5: Assembling Community
 
+Community develops at the pace of counterparts combined.  Find and add the following levels of people to determine the pace at which your community develops.
+
+**BIAS** refers to the interpretation of consciousness received.
+
+ * **-2** Conscious Biasers - These people constantly break the community
+ * **-1** Unconscious Biasers - These people often break the community
+ * **0** Conscious / Unconscious - These people don't give a f&ck
+ * **+1** Conscious Un-Biasers - These people often build the community
+ * **+2** Unonscious Un-Biasers - These people constantly build the community
+
 # Chapter 6: Producing Value
 
 # Chapter 7: Resisting Solidification
