@@ -40,7 +40,7 @@
 
 ## <sup><sub>§0.2</sub></sup> Apologies
 
-<sup><sub>❡0.2.1</sub></sup> This document is written in English, and it MUST be translated into all languages of the Earth, as this specification spreads in understanding, BECAUSE PREMISE.
+<sup><sub>❡0.2.1</sub></sup> This document is written in English, and it MUST be translated into all languages of the Earth, as this specification spreads in understanding, BECAUSE PREMISE!
 
 ## <sup><sub>§0.3</sub></sup> Contributing
 
@@ -98,15 +98,15 @@
 
 ## <sup><sub>§5.1</sub></sup> Community and Bias
 
-<sup><sub>❡5.1.1</sub></sup> Community develops at the pace of counterparts combined.  Find and add the following levels of people to determine the pace at which your community develops.
+<sup><sub>❡5.1.1</sub></sup> Community develops at the pace of counterparts combined. Find and add the following levels of people to determine the pace at which your community develops.
 
 <sup><sub>❡5.1.2</sub></sup> **BIAS** refers to the interpretation of consciousness received.
 
- * **-2** Conscious Biasers - These people constantly break the community
- * **-1** Unconscious Biasers - These people often break the community
- * **0** Conscious / Unconscious - These people don't give a f&ck
- * **+1** Conscious Un-Biasers - These people often build the community
- * **+2** Unconscious Un-Biasers - These people constantly build the community
+- **-2** Conscious Biasers - These people constantly break the community
+- **-1** Unconscious Biasers - These people often break the community
+- **0** Conscious / Unconscious - These people don't give a f\*ck
+- **+1** Conscious Un-Biasers - These people often build the community
+- **+2** Unconscious Un-Biasers - These people constantly build the community
 
 # <sup><sub>§6</sub></sup> Producing Value
 
