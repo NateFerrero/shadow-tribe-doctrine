@@ -40,7 +40,7 @@
 
 ## <sup><sub>§0.2</sub></sup> Apologies
 
-<sup><sub>❡0.2.1</sub></sup> This document is written in English, and it MUST be translated into all languages of the Earth, as this specification spreads in understanding, BECAUSE PREMISE!
+<sup><sub>❡0.2.1</sub></sup> This document is written in English, and it MUST be translated into all languages of the Earth, as this specification spreads in understanding, BECAUSE PREMISE.
 
 ## <sup><sub>§0.3</sub></sup> Contributing
 
